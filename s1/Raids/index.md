@@ -27,4 +27,8 @@
 - ZFS (Raid-z)
 - mdadm
 ---
+##  منابع 
+
+- https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/s1-raid-levels
+---
 
